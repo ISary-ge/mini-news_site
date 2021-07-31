@@ -1,0 +1,28 @@
+[
+    {
+    "id": 4,
+    "title": "Немеют пальцы и ещё 11 признаков 'загрязнённых' сосудов. Совет нейрохирурга",
+    "img": "http://storm-news.site/main_files/34yh3fr334fs.jpg",
+    "external_link": "http://storm-news.site/giper-tens/free/prelp/v43/index.html?utm_source=tb&subid1=tb"
+    },
+	{
+    "id": 1,
+    "title": "Вундеркинд из Белоруссии: 'Пока не лопнул сосуд и не застал инсульт, немедленно исключите вреднейший...",
+    "img": "https://img-perli.com/upload/201907/abdf02fb90dd43a5/6c1d248efb36717-1562655886.jpg",
+    "external_link": "https://luckybest.ru/click/go/bf766f0e-7f73-4bdf-a0f0-1011dd751bd2.html?utm_source=tb&subid1=tb"
+	},
+	{
+    "id": 2,
+    "title": "Читать срочно! Суставы перестанут болеть уже через 15 минут, если...",
+    "img": "https://i.pinimg.com/originals/41/e3/dd/41e3dd4c00f56545d99eb8c14824bca9.jpg",
+    "external_link": "https://luckybest.ru/click/go/9ba1740a-3f31-40a3-8a11-e277fda88808.html?utm_source=tb&subid1=tb"
+	},
+	{
+    "id": 3,
+    "title": "Если отекают ноги, вам нужно срочно чистить сосуды! Вот 100% рецепт...",
+    "img": "https://avatars.mds.yandex.net/get-zen_doc/195447/pub_5dbbcc383642b600adb40fee_5dbbe44af73d9d00adbb745c/scale_1200",
+    "external_link": "http://storm-news.site/giper-tens/149/prelp/v2/index.html?utm_source=tb&subid1=tb"
+	}
+
+
+]
